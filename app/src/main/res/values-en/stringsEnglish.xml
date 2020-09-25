@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="txtEstatura">Height</string>
+    <string name="txtPeso">Weight</string>
+    <string name="btnCalcularImc">Show BMI</string>
+    <string name="titulo">" Enter your Data"</string>
+    <string name="lblPeso">lb.</string>
+    <string name="lblEstatura">inch.</string>
+    <string name="lblTitulo">BMI Result</string>
+    <string name="error1">Enter value for Height</string>
+    <string name="error2">Enter value for weight</string>
+    <string name="error3">Enter values for Weight and Height</string>
+    <string name="introduccion">For the information you entered:</string>
+    <string name="estatura">Height:</string>
+    <string name="peso">Weight:</string>
+    <string name="resultado">The following results are obtained:</string>
+    <string name="imc">BMI:</string>
+    <string name="condicion1">Condition: Under weight</string>
+    <string name="condicion2">Condition: Normal</string>
+    <string name="condicion3">Condition: Overweight</string>
+    <string name="condicion4">Condition: Obese</string>
+    <string name="recomendaciones">The following is recommended:</string>
+    <string name="recomendacion1">Talk to your healthcare provider to establish possible causes of underweight and whether you need to gain weight.</string>
+    <string name="recomendacion2">Maintaining a healthy weight can reduce the risk of chronic diseases associated with being overweight and obese.</string>
+    <string name="recomendacion3_4_1">People who are overweight or obese are at higher risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.</string>
+    <string name="recomendacion3_4_2">Anyone who is overweight should try to avoid gaining more weight. Also, if you are overweight along with other risk factors (such as high LDL cholesterol, low HDL cholesterol, or high blood pressure), you should try to lose weight. Even a small decrease (as little as 10% of your current weight) can help lower your risk of disease. Talk with your healthcare provider to establish proper ways to lose weight.</string>
+    <string name="español">Spanish</string>
+    <string name="ingles">English</string>
+    <string name="aviso1">Select a Language</string>
+</resources>

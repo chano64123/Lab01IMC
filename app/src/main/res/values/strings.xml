@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="txtEstatura">Estatura</string>
+    <string name="txtPeso">Peso</string>
+    <string name="btnCalcularImc">Mostrar IMC</string>
+    <string name="titulo">Ingrese sus Datos</string>
+    <string name="lblPeso">kg.</string>
+    <string name="lblEstatura">m.</string>
+    <string name="lblTitulo">Resultado IMC</string>
+    <string name="error1">Ingrese valor para la Estatura</string>
+    <string name="error2">Ingrese valor para el Peso</string>
+    <string name="error3">Ingrese valores para Peso y Estatura</string>
+    <string name="introduccion">Para la información que ingresó:</string>
+    <string name="estatura">Estatura:</string>
+    <string name="peso">Peso:</string>
+    <string name="resultado">Se obtienen los siguientes resultados:</string>
+    <string name="imc">IMC:</string>
+    <string name="condicion1">Condicion: Bajo Peso</string>
+    <string name="condicion2">Condicion: Normal</string>
+    <string name="condicion3">Condicion: Sobrepeso</string>
+    <string name="condicion4">Condicion: Obeso</string>
+    <string name="recomendaciones">Se recomienda lo siguiente:</string>
+    <string name="recomendacion1">Hable con su proveedor de atención médica para establecer las posibles causas del bajo peso y si necesita ganar peso.</string>
+    <string name="recomendacion2">Mantener un peso saludable puede reducir el riesgo de enfermedades crónicas asociadas al sobrepeso y la obesidad.</string>
+    <string name="recomendacion3_4_1">Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.</string>
+    <string name="recomendacion3_4_2">Toda persona que tenga sobrepeso debería tratar de evitar ganar más peso. Además, si usted tiene sobrepeso junto con otros factores de riesgo (como niveles altos de colesterol LDL, niveles bajos de colesterol HDL o hipertensión arterial), debería tratar de perder peso. Incluso una pequeña disminución (tan solo 10 % de su peso actual) puede ayudar a disminuir el riesgo de enfermedades. Hable con su proveedor de atención médica para establecer maneras adecuadas de perder peso.</string>
+    <string name="español">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="aviso1">Seleccione un Idioma</string>
+
+</resources>
